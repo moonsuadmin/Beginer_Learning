@@ -4,5 +4,5 @@
   "ide": "CodeLite",
   "type": "php"
  },
- "projects": []
+ "projects": ["../Hello_World/Hello_World.phprj"]
 }
